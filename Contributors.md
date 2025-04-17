@@ -868,7 +868,7 @@
 <tr>
   <!-- End of column-71 -->
     <td align="center">
-  <a href="https://github.com/daveeedu](https://github.com/codewithEshaYoutube/">
+  <a href="https://github.com/codewithEshaYoutube/">
     <img
       src="https://avatars.githubusercontent.com/u/10342715?v=4"
       width="100px"
