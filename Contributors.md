@@ -171,6 +171,7 @@
 </td>
 <!-- End of column-14 -->
 </tr>
+
 <tr>
 <!-- Start of column-15 -->
 <td align="center">
@@ -295,6 +296,7 @@
   </a>
 </td>
 <!-- End of column-24 -->
+  
 <!-- Start of column-25 -->
 <td align="center">
   <a href="https://github.com/williamssam">
@@ -865,6 +867,16 @@
 
 <tr>
   <!-- End of column-71 -->
+    <td align="center">
+  <a href="https://github.com/daveeedu](https://github.com/codewithEshaYoutube/">
+    <img
+      src="https://avatars.githubusercontent.com/u/10342715?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Esha Tariq</sub>
+  </a>
+</td>
   <!-- Start of column-72 -->
 <td align="center">
   <a href="https://github.com/Rakielle">
