@@ -867,16 +867,7 @@
 
 <tr>
   <!-- End of column-71 -->
-    <td align="center">
-  <a href="https://github.com/daveeedu](https://github.com/codewithEshaYoutube/">
-    <img
-      src="https://avatars.githubusercontent.com/u/10342715?v=4"
-      width="100px"
-    />
-    <br />
-    <sub>Esha Tariq</sub>
-  </a>
-</td>
+
   <!-- Start of column-72 -->
 <td align="center">
   <a href="https://github.com/Rakielle">
@@ -968,5 +959,16 @@
     <br />
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
+    <td align="center">
+  <a href="https://github.com/codewithEshaYoutube/">
+    <img
+      src="https://avatars.githubusercontent.com/u/157880759?s=400&u=ca2577b8637bd32b906e0b7bceaa6d758c3b6022&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Esha Tariq</sub>
+  </a>
+</td>
+    
 </tr>
 </table>
